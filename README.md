@@ -1,5 +1,5 @@
-# -Bookstore-SQL-Analysis-
-# DATA IN MOTION CASE STUDY 3: Book Store Case Study
+# DATA IN MOTION CASE STUDY 3:
+Book Store Case Study
 
 -- Overview of the Project --
 
